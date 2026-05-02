@@ -37,23 +37,24 @@ python healthcare_etl.py
 ## 📊 Dashboard Reparti
 
 <p align="center">
-<table style="width: 100%;">
+<table style="width: 90%; border: none;">
 <tr>
-<td style="vertical-align: top; padding-right: 20px;">
-<img src="top_categoria.png" width="350">
+<td style="width: 45%; vertical-align: top; padding: 10px;">
+<img src="top_categoria.png" width="400">
 </td>
-<td style="vertical-align: top;">
+<td style="width: 55%; vertical-align: top; padding: 10px;">
+ 
 | Metrica | Valore |
 |---------|--------|
-| Pazienti| 55,824 |
-| Degenza | 4.2 gg |
-| Top Reparto | Cardio |
-| Occup. | 78% |
+| **Pazienti Totali** | **55,824** |
+| **Degenza Media** | **4.2 giorni** |
+| **Top Reparto** | **Cardiologia** |
+| **Tasso Occupazione** | **78%** |
+
 </td>
 </tr>
 </table>
 </p>
-
 
 <br>
 
