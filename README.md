@@ -35,28 +35,31 @@ python healthcare_etl.py
 <br>
 
 ## 📊 Dashboard Reparti
-<div style="display: flex; gap: 20px; align-items: start;">
 
-<div style="flex: 1;">
-<img src="top_categoria.png" width="400" alt="Top Categorie Pazienti">
-</div>
+<p align="center">
+<table style="width: 100%;">
+<tr>
+<td style="vertical-align: top; padding-right: 20px;">
+<img src="top_categoria.png" width="350">
+</td>
+<td style="vertical-align: top;">
+| Metrica | Valore |
+|---------|--------|
+| Pazienti| 55,824 |
+| Degenza | 4.2 gg |
+| Top Reparto | Cardio |
+| Occup. | 78% |
+</td>
+</tr>
+</table>
+</p>
 
-<div style="flex: 2;">
-| Metrica            | Valore     |
-|--------------------|------------|
-| Pazienti Totali    | 55,824    |
-| Degenza Media      | 4.2 giorni|
-| Top Reparto        | Cardiologia |
-| Tasso Occupazione  | 78%       |
-</div>
-
-</div>
 
 <br>
 
 ## 💡 Apprendimenti 
 - Data cleaning dataset sanitari reali
-- SQL query reparti/turni OSS
+- SQL query reparti pazienti
 - Prossimo: Power BI + ML predizione admissions
 
   <br>
